@@ -241,7 +241,7 @@ function App() {
               </>
             ) : (
               <p className="p-4 text-sm text-center">
-                Theres's cupcakes yet. Be the first to buy one.
+                There's no cupcakes yet. Be the first to buy one.
               </p>
             )}
           </div>
