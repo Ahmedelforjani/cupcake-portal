@@ -11,6 +11,9 @@ const projectId = import.meta.env.VITE_WALLETCONNECT_PROJECT_ID;
 
 const metadata = {
   name: "Cupcake portal",
+  description: "Cupcake portal",
+  url: "https://cupcake-portal.vercel.app",
+  icons: ["https://avatars.githubusercontent.com/u/37784886"],
 };
 
 const chains = config.chains;
